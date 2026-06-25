@@ -1,3 +1,6 @@
+# 💫 About Me:
+🔭 I’m currently working on:<br>Building responsive web applications and enhancing my Cloud & DevOps skills.<br><br>🌱 I’m currently learning:<br>DevOps, Modern Web Development, Docker, Kubernetes, AWS Cloud, and CI/CD Practices.<br><br>👯 I’m looking to collaborate on:<br>Innovative Web Applications, Frontend Development, UI/UX Design, Open Source Contributions, and Cloud Projects.<br><br>🤝 I’m looking for help with:<br>Frontend Development and Database Design & Management.<br><br>💬 Ask me about:<br>Frontend Development, UI/UX Design, Git & GitHub, SQL, Database Management, Cloud Computing, and DevOps.<br><br>⚡ Fun fact:<br>I love transforming ideas into user-friendly digital experiences through code and design.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/parmar-hemeen-354405378?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parmarhemeen05@gmail.com) 
@@ -9,16 +12,7 @@
 ![](https://streak-stats.demolab.com/?user=parmarhemeen05&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=parmarhemeen05&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=parmarhemeen05&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=parmarhemeen05&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=parmarhemeen05&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
