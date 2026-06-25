@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me 
 Hi, I'm Parmar Hemeen, a Final-Year Computer Science and Engineering student passionate about Frontend Development, UI/UX Design, Cloud Computing, and DevOps.
 
 I enjoy building responsive web applications, creating intuitive user experiences, and exploring modern cloud technologies. My goal is to continuously learn, contribute to meaningful projects, and grow as a software professional while developing scalable and user-centric digital solutions.
